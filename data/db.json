@@ -1,0 +1,24 @@
+{
+  "mydata": [
+    {
+      "id": "ea31",
+      "price": 1000,
+      "title": "Shopping"
+    },
+    {
+      "id": "0181",
+      "price": 500,
+      "title": "Bills & Other Essentials"
+    },
+    {
+      "id": "53bd",
+      "price": 175,
+      "title": "Food & Drinks"
+    },
+    {
+      "id": "631f",
+      "price": 150,
+      "title": "Transportation"
+    }
+  ]
+}
